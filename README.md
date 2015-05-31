@@ -1,2 +1,1 @@
-I tried to make an example of structuring the application by following solid principle..
-If we structured larger application with better way at the very first commit then only it will get success. It will be so easy to modify later.. All Classes Are In Same File and no Comments..... Sorry :p 
+I tried to make an example of structuring the application by following solid principle, I mean modularizing. One Class Is Responsible For One purpose. So ... If we structured larger application with better way at the very first commit then only it will get sucess. It will be so easy to modify later.. All Classes Are In Same File and no Comments..... Sorry :p 
